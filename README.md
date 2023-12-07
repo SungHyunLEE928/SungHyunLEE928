@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+소속 : 영남이공대학교
+
+학과 : **소프트웨어콘텐츠계열**
+
+관심분야 : *프론트앤드, 백앤드, 웹사이트 제작*
+
+---
+**안녕하세요**
+
+### 깃허브 작성방법
+1. 원격저장소 만들기
+2. 지역 저장소 연결하기
+3. 커밋하기
+4. 푸시하기
+
+[영남이공대학교].(http://www.ync.ac.kr)
+
 <!--
 **SungHyunLEE928/SungHyunLEE928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
